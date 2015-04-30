@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "GLOBALOG 2008-2010"
+date:   2010-09-15 16:54:46
+author: ITENE, PLAZA, Universidad de Valencia, Universidad de Oviedo
+categories:
+- project
+img: globalog.jpg
+thumb: thumb02.jpg
+carousel:
+- globalog.jpg
+client: Ministry of Science and Education
+website: http://www.pse-globalog.org/
+---
+####GLOBALOG
+This project aimed to increase the competitiveness of Spanish companies through better logistics management and solutions.
+
+####My role
+My participation in Globalog consisted in the callibration of interaction data models using the gravity equation. The objective was to predict road freight flows among Spanish regions in order to detect opportunities to enhance transportation and logistics infrastructure. 

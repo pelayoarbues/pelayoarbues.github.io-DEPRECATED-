@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <h4>About</h4>
+                <h4>About this site</h4>
                 <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
+                <p>This site runs on Jekyll using Solid theme.</p>
             </div>
             <div class="col-lg-4">
                 <h4>Social Links</h4>
@@ -12,15 +12,6 @@
                 <p>
                     {% for network in site.social %}
                         <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Our Bunker</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
                     {% endfor %}
                 </p>
             </div>

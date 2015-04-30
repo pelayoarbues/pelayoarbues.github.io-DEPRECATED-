@@ -8,22 +8,23 @@ permalink: /
     <div class="container">
         <div class="row centered">
             <div class="col-md-4">
-                <i class="fa fa-heart-o"></i>
-                <h4>Handsomely Crafted</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <i class="fa fa-wrench"></i>
+                <h4>Projects</h4>
+                <p>I have worked on different topics such as: the logistics performance of Spanish Companies, the Postal Sector efficiency or freight transport modal shift. </p>
+                <p><br/><a href="/portfolio/" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-flask"></i>
-                <h4>Retina Ready</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <i class="fa fa-file-text"></i>
+                <h4>Resume</h4>
+                <p>Since I obtained my Ph.D. in Economics in 2013 I have been taking courses on machine learning, data visualization
+                and programming. </p>
+                <p><br/><a href="/resume/resume.pdf" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-trophy"></i>
-                <h4>Quality Theme</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <i class="fa fa-truck"></i>
+                <h4>Publications</h4>
+                <p>Although my research has been mainly focused on transportation economics I am open to collaborate in any project that requires data analysis, economics or both! </p>
+                <p><br/><a href="/publications/" class="btn btn-theme">More Info</a></p>
             </div>		 				
         </div>
     </div><! --/container -->
@@ -34,18 +35,12 @@ permalink: /
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About Our Agency.</h4>
+            <h4>More about me.</h4>
             <p>{{ site.about }}</p>
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
 
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-            {% endfor %}
-        </div>
+    
 
         <div class="col-lg-3">
             <h4>Latest Posts</h4>

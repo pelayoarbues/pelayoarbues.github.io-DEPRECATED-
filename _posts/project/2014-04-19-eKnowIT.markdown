@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "eKnow IT 2014-Now"
+date:   2014-07-01 16:54:46
+author: Autoridad Portuaria de Gijón, ISL, CEGE
+categories:
+- project
+img: eknowit.jpg
+thumb: eknowit.jpg
+carousel:
+- eknowit.jpg
+client: European Commission
+website: http://eknowit.eu
+---
+####e-Knowledge in Intermodal Transport (eKnow IT)
+The purpose of eKnow IT is to share Modal Shift success stories in Europe between the intervenient and potential Target Groups like Universities, Transport Institutes and Professional Associations. In particular, core activities include to identify real examples of European Modal Shifts, develop Case Studies with scientific value recognized by the academic community and include them as training tools in University Courses, seminars, Associations' workshops and International fairs.
+
+####My role
+In this position I am responsible to assess transport sector activities and best practices in logistics. Besides reporting I am also in charge of coordinating case studies writing, elaborate the dissemination plan and the scientific framework. 

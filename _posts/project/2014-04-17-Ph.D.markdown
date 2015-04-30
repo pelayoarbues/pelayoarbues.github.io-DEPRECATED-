@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Ph.D. Thesis 2010-2013"
+date:   2013-12-05 16:54:46
+author: José Baños and Matías Mayor (Supervisors)
+categories:
+- project
+img: tesis_th-1.jpg
+thumb: thumb02.jpg
+carousel:
+- tesis-1.jpg
+- tesis-2.jpg
+- tesis-3.jpg
+- tesis-4.jpg
+client: Funded by Principado Asturias government (Severo Ochoa grant)
+website: http://digibuo.uniovi.es/dspace/handle/10651/21702
+---
+####Essays on Transport Economics.
+My doctoral thesis Essays on Transport Economics collects three empirical research papers applying statistical and econometric techniques to different transport-related topics. In the first essay a spatial econometrics model is applied to the study of the economic contribution of transport infrastructure to regional productivity. The second essay is devoted to analyze road freight transportation demand applying a gravity equation in a panel data framework. The last essay aims to study the determinants of modal choice in long distance trips in Spain through the estimation of a multilevel multinomial model. 
+
