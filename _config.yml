@@ -5,7 +5,7 @@ title: Pelayo Arbués.
 description: "Pelayo Arbués. Data scientist passionate about data, photography and economics."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://pelayoarbues.github.io"
+url: ""
 
 # Build settings
 markdown: kramdown
