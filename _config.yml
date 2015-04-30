@@ -57,9 +57,9 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:pelayoarbues@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/pelayoarbues
  
     
 # Clients information. Shown on Home and About pages.
