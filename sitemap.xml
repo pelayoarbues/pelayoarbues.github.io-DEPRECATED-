@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://pelayoarbues.github.io/</loc>
+    <lastmod>2020-02-02T23:38:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pelayoarbues.github.io/talk/</loc>
+    <lastmod>2020-02-02T23:38:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pelayoarbues.github.io/talk/spatial-correlation-rhisp/</loc>
+    <lastmod>2020-02-02T23:38:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pelayoarbues.github.io/talk/databeers-xxx/</loc>
     <lastmod>2019-09-19T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pelayoarbues.github.io/</loc>
-    <lastmod>2019-09-19T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pelayoarbues.github.io/talk/</loc>
-    <lastmod>2019-09-19T19:00:00+01:00</lastmod>
+    <loc>http://pelayoarbues.github.io/talk/boosting-cadastre/</loc>
+    <lastmod>2019-03-28T18:30:00+01:00</lastmod>
   </url>
   
   <url>
