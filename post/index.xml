@@ -5,12 +5,24 @@
     <link>http://pelayoarbues.github.io/post/</link>
       <atom:link href="http://pelayoarbues.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pelayo Arbués `2020`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pelayo Arbués `2020`</copyright><lastBuildDate>Tue, 04 Feb 2020 20:01:01 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>http://pelayoarbues.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Online Resources for Social Scientists</title>
+      <link>http://pelayoarbues.github.io/post/online-resources-for-social-scientists/</link>
+      <pubDate>Tue, 04 Feb 2020 20:01:01 +0100</pubDate>
+      <guid>http://pelayoarbues.github.io/post/online-resources-for-social-scientists/</guid>
+      <description>&lt;p&gt;Missing Semester in CS: &lt;a href=&#34;https://missing.csail.mit.edu/&#34;&gt;https://missing.csail.mit.edu/&lt;/a&gt;
+The plain Person&amp;rsquo;s Guide to plain text Social Science: &lt;a href=&#34;http://plain-text.co/index.html#introduction&#34;&gt;http://plain-text.co/index.html#introduction&lt;/a&gt;
+sql: &lt;a href=&#34;https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about&#34;&gt;https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about&lt;/a&gt;
+sql playground: &lt;a href=&#34;https://sqlzoo.net/&#34;&gt;https://sqlzoo.net/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
