@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pelayoarbues.github.io/talk/doing-data-science-ia-seminar/</loc>
-    <lastmod>2020-11-05T11:30:00+01:00</lastmod>
+    <loc>http://pelayoarbues.github.io/post/data-science-fundamentals/</loc>
+    <lastmod>2021-01-04T10:40:09+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://pelayoarbues.github.io/</loc>
+    <lastmod>2021-01-04T10:40:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pelayoarbues.github.io/post/</loc>
+    <lastmod>2021-01-04T10:40:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pelayoarbues.github.io/talk/doing-data-science-ia-seminar/</loc>
     <lastmod>2020-11-05T11:30:00+01:00</lastmod>
   </url>
   
@@ -24,11 +34,6 @@
   
   <url>
     <loc>http://pelayoarbues.github.io/post/data-science-lessons-learned/</loc>
-    <lastmod>2020-06-08T21:10:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pelayoarbues.github.io/post/</loc>
     <lastmod>2020-06-08T21:10:48+02:00</lastmod>
   </url>
   
