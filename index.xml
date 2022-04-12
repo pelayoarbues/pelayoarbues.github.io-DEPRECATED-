@@ -5,7 +5,7 @@
     <link>http://pelayoarbues.github.io/</link>
       <atom:link href="http://pelayoarbues.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pelayo Arbues</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pelayo Arbués `2022`</copyright><lastBuildDate>Thu, 28 Oct 2021 19:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pelayo Arbués `2022`</copyright><lastBuildDate>Thu, 02 Dec 2021 22:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Pelayo Arbues</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>xTalks.AI</title>
+      <link>http://pelayoarbues.github.io/talk/x-talks-ai/</link>
+      <pubDate>Thu, 02 Dec 2021 22:00:00 +0100</pubDate>
+      <guid>http://pelayoarbues.github.io/talk/x-talks-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic Valuation of Spanish Cadastre</title>
       <link>http://pelayoarbues.github.io/talk/carto-2021/</link>
       <pubDate>Thu, 28 Oct 2021 19:00:00 +0100</pubDate>
       <guid>http://pelayoarbues.github.io/talk/carto-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buscando Vocaciones</title>
+      <link>http://pelayoarbues.github.io/talk/buscando-vocaciones/</link>
+      <pubDate>Sun, 19 Sep 2021 19:00:00 +0100</pubDate>
+      <guid>http://pelayoarbues.github.io/talk/buscando-vocaciones/</guid>
       <description></description>
     </item>
     
